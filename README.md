@@ -1,2 +1,2 @@
 # goit
-- [goit](https://github.com/stoika6/goit/VSCODE-RESUME/index)
+- [goit](https://stoika6.github.io/goit/VSCODE-RESUME/index)
